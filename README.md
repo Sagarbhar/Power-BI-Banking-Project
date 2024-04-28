@@ -1,5 +1,5 @@
 
-# Power BI Bank Project
+# Power BI Bank Project(DAX)
 
 A brief description of what this project does and who it's for
 
